@@ -42,3 +42,8 @@
      the current class instead of a generate class instance.
 
 # Colors Manager
+### we do this to avoid any hard coded value to follow the clean code
+# Fonts Manager
+### try montserrat
+    - create your assets folder with the font folder
+    - create your dart file manager
