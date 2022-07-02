@@ -60,3 +60,7 @@ the current class instead of a generate class instance.
     - elevation
     - animation size
     - and so on
+
+# Text Styles Manager
+
+# Theme Manager
