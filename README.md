@@ -51,3 +51,12 @@ the current class instead of a generate class instance.
     - FontsConstance Class
     - FontsWeightManager Class
     - FontsSize Class
+
+# Values Manager
+- Create the MarginManager Class
+- Create PaddingManager Class
+- SizeManager will hold a data for
+    - Corners
+    - elevation
+    - animation size
+    - and so on
