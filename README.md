@@ -48,3 +48,6 @@ the current class instead of a generate class instance.
 ### Try montserrat
 - create your assets folder with the font folder
 - create your dart file manager
+    - FontsConstance Class
+    - FontsWeightManager Class
+    - FontsSize Class
